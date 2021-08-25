@@ -1,0 +1,17 @@
+#addMovies,#movieList{
+    width: 900px;
+    height: auto;
+    margin: 50px auto;
+    border: 1px solid black;
+}
+h1{
+    background-color: azure;
+    border-bottom: 1px solid black;
+}
+.btn{
+    float: right;
+}
+img{
+    width:265px;
+    height:165px;
+}
